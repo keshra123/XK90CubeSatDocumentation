@@ -3,5 +3,5 @@ This is repository to help with XK90 CubeSat kit from the XinaBox company, a IOT
 
 ![XK90](https://user-images.githubusercontent.com/57604594/128566542-ae97a823-8802-4d5c-8d2b-4e78fd4a7315.PNG)
 
-To learn more about how to set up the kit, follow the instructions here: https://docs.google.com/document/d/1_oWKTuYcocgKNX_HcJq01okBw8_iUGFpzaBRgWerlpo/edit. 
+To learn more about how to set up the kit, follow the instructions here: https://docs.google.com/document/d/1_oWKTuYcocgKNX_HcJq01okBw8_iUGFpzaBRgWerlpo/edit and https://xinabox.cc/pages/xk90-getting-started. 
 
